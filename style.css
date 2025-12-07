@@ -7,20 +7,11 @@ body{
     font-family: Arial, sans-serif;
     
 }
+.wave1{
+    width: 100%;
+}
  
-    .navbar-nav .nav-item .nav-link {
-      color: #fff;
-      transition: background 0.3s, color 0.3s;
-    }
-
-    .navbar-nav .nav-item .nav-link:hover,
-    .navbar-nav .nav-item .nav-link.active {
-      background-color: #0dcaf0; /* Bootstrap info color */
-      color: #000;
-      border-radius: 0.5rem;
-    }
-
-    .navbar-brand img {
-      height: 50px;
-      width: auto;
-    }
+.pimg{
+    width: 50px;
+    height: 50px;;
+}
